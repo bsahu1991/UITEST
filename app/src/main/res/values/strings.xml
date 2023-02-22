@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ITConvTest</string>
+    <string name="add_post">Add Post</string>
+    <string name="view_post">View Post</string>
+</resources>
